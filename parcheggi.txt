@@ -1,0 +1,4 @@
+aa111aa,"A","S","parcheggi.txt",parcheggi.txt
+
+AA444AA,"M","a","parcheggi.txt",null
+
